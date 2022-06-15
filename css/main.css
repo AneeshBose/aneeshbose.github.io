@@ -9,7 +9,7 @@ html{
 
 body{
 	font-family: "stix";
-		scroll-snap-type: mandatory;
+	scroll-snap-type: mandatory;
 }
 
 a{
