@@ -21,6 +21,11 @@ a:hover{
 	color: black;
 }
 
+#land-diff{
+	text-decoration: none;
+	color: white;	
+}
+
 #landing-container{
 	height: 100vh;
 	background: url(../images/landing1.png);
