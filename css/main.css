@@ -193,7 +193,8 @@ a:hover{
 
 #myFrame{ 
 	width:50%; 
-	height:50%; 
+	height:75%; 
+	align-items: center;
 }
 
 .content-box{
