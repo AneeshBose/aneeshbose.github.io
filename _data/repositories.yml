@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aneeshbose
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AneeshBose/Semantic-Query-Search-Using-Co-Occurrence-Clustering-in-Word-Graphs
+  - AneeshBose/OCRHackathon
+  - AneeshBose/ImageForgeryLocalization
+  - shantipriyap/HausaVQA
+  - AneeshBose/Meeting360
+
