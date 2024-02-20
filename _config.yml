@@ -1,10 +1,10 @@
+--- # -----------------------------------------------------------------------------
+
 # -----------------------------------------------------------------------------
 # Site settings
-# -----------------------------------------------------------------------------
-
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Aneesh
-middle_name: 
+middle_name:
 last_name: Bose
 email: aneeshbose2296@gmail.com
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,7 +17,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://aneeshbose.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -26,8 +26,8 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: perldoc    # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: github # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: perldoc # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -286,7 +286,6 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: [Einstein]
   first_name: [Albert, A.]
 
