@@ -1,7 +1,7 @@
---- # -----------------------------------------------------------------------------
-
 # -----------------------------------------------------------------------------
 # Site settings
+# -----------------------------------------------------------------------------
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Aneesh
 middle_name:
@@ -230,6 +230,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -371,6 +372,14 @@ imagemagick:
 lazy_loading_images: true # enables lazy loading of images (recommended)
 
 # -----------------------------------------------------------------------------
+# Jekyll Diagrams
+# -----------------------------------------------------------------------------
+
+jekyll-diagrams:
+    # configuration, see https://github.com/zhustec/jekyll-diagrams.
+    # feel free to comment out this section if not using jekyll diagrams.
+
+# -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
@@ -391,6 +400,14 @@ enable_progressbar: true # enables a horizontal progress bar linked to the verti
 # Library versions
 # -----------------------------------------------------------------------------
 
+academicons:
+  version: "1.9.1"
+  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
+bootstrap:
+  version: "4.6.1"
+  integrity:
+    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
+    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
   version: "1.22.1"
 chartjs:
