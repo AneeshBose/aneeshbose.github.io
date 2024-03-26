@@ -100,39 +100,29 @@
       "icon": "fa-solid fa-tag"
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Programming Languages and Frameworks",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python", 
-        "SQL", 
-        "C++", 
-        "C#", 
-        "Java",  
-        "Flask",
-        "PySpark", 
-        "PyTorch"
-      ]
+      "keywords": ["Python", "SQL", "C++", "C#", "Java", "Flask", "PySpark", "PyTorch"]
     },
     {
       "name": "Azure",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Databricks", 
-        "Data Factory", 
-        "Data Lake", 
-        "Synapse", 
-        "Cognitive Services", 
+        "Databricks",
+        "Data Factory",
+        "Data Lake",
+        "Synapse",
+        "Cognitive Services",
         "Service Bus",
-        "CosmosDB", 
-        "Speech Studio", 
-        "ML Studio", 
-        "AI Studio", 
+        "CosmosDB",
+        "Speech Studio",
+        "ML Studio",
+        "AI Studio",
         "Prompt Flow"
       ]
     }
@@ -154,6 +144,5 @@
       "icon": ""
     }
   ],
-  "projects": [  
-  ]
+  "projects": []
 }
